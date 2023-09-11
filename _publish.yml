@@ -1,0 +1,4 @@
+- source: shiny_python_quarto_demo.qmd
+  quarto-pub:
+    - id: 72364868-6e66-484f-a547-4e4e3fd5718f
+      url: 'https://dar4ds.quarto.pub/shinylive-in-quarto-example'

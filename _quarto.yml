@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - /index.qmd
+    - /shiny_python_quarto_demo.qmd
+
+website:
+  title: "Quarto + Shinylive"
+  navbar:
+    search: true
+    right:
+      - icon: github
+        href: https://github.com/quarto-ext/shinylive-quarto
+
+format:
+  html:
+    toc: true
